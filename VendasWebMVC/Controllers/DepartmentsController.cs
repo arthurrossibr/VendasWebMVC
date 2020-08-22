@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using VendasWebMVC.Data;
 using VendasWebMVC.Models;
-
+ 
 namespace VendasWebMVC.Controllers
 {
     public class DepartmentsController : Controller
