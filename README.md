@@ -1,3 +1,3 @@
 # VendasWebMVC
 
-Aplicação de vendas usando C# e MySQL 
+Aplicação de vendas usando C# MVC e MySQL 
